@@ -4,7 +4,7 @@
 
 
 ![Kauandlr GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauandlr&show_icons=true&theme=github_dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&hide_progress=false&theme=github_dark&size_weight=4)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&hide_progress=false&theme=github_dark&size_weight=8)
 
 ### Tecnologias que uso diariamente 🖳
 
