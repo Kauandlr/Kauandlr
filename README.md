@@ -7,13 +7,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauandlr&bg_color=0d1117&color=aec3e5&line=1f6feb&point=50678b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-<a href="https://www.instagram.com/mthalvarez_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
 
 ### Tecnologias que uso diariamente 🖳
 
