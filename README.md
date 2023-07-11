@@ -5,8 +5,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=120&section=header"/>
 
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauandlr&bg_color=0d1117&color=aec3e5&line=1f6feb&point=50678b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Tecnologias que uso diariamente 🖳
