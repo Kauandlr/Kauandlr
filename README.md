@@ -6,10 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=184D9F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kauan;I'm+18+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+Welcomel+:%29)](https://git.io/typing-svg) 
 
- <div align="center">
-     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?
-username-Kauandlr&show_icons=true&count_private-true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color-c9d1d9&bg_color-8d1117"alt="Kauandlr github stats" />
- </div>
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MatheusAlvarez&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauandlr&bgcolor=0d1117&color=aec3e5&line=1f6feb&point=50678b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
