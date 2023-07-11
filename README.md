@@ -11,7 +11,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kauandlr}/count.svg" /></p> 
 <br></div>
 
 ### Tecnologias que uso diariamente 🖳
