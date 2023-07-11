@@ -9,7 +9,7 @@
  <div align="center">
      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?
 username-Kauandlr&show_icons=true&count_private-true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color-c9d1d9&bg_color-8d1117"alt="Kauandlr github stats" />
-</div>
+ </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauandlr&bgcolor=0d1117&color=aec3e5&line=1f6feb&point=50678b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
