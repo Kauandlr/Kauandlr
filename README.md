@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauandelara_/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/kauandlr/)
 
-[![TypingSVG](https://readmetypingsvg.herokuapp.com/colorff91a4&size=35&center=true&vCenter=true&width=1000&linesHELLO,+MY+NAME+is+Caroline+Barbosa;I'm+25+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+Welcomel+:X29)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.herokuapp.com/?colorff91a4&size=35&center=true&vCenter=true&width=1000&linesHELLO,+MY+NAME+is+Caroline+Barbosa;I'm+25+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+Welcomel+:X29)](https://git.io/typing-svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1F6FEB&height=120&section=header"/>
 
