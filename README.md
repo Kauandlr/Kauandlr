@@ -6,8 +6,8 @@
 
 
 <div>
-<img height="160em" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&langs_count=8&layout=compact&theme=github_dark"/>
-<img height="160em" width="200px" src="https://github-readme-stats.vercel.app/api?username=Kauandlr&show_icons=true&theme=github_dark"/>
+<img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&langs_count=8&layout=compact&theme=github_dark"/>
+<img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Kauandlr&show_icons=true&theme=github_dark"/>
 </div>
 
 
