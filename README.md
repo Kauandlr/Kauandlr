@@ -9,7 +9,7 @@
  <div>  
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kauandlr&show_icons=true&theme=github_dark"/>
   
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&hide_progress=true)username=Kauandlr&layout=compact&langs_count=16&theme=github_dark"/>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 </div>
 
 <div align="center">
