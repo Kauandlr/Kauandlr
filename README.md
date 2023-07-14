@@ -8,7 +8,7 @@
 
  <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kauandlr&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Kauan de Lara github stats" /> 
-  <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="49%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
 <div align="center">
