@@ -13,14 +13,13 @@
 </div>
 
 <div align="center">
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauandlr&bg_color=0d1117&color=aec3e5&line=1f6feb&point=50678b&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kauandlr&show_icons=true&theme=github_dark"/>
+ <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 <div align="center">
 <br><p align="center"><b>Visit Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kauandlr}/count.svg" /></p>
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/langs/?
 <br></div>
 
 
