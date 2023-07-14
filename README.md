@@ -19,7 +19,8 @@
 
 <div align="center">
 <br><p align="center"><b>Visit Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kauandlr}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Kauandlr}/count.svg" /></p>
+<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/langs/?
 <br></div>
 
 
