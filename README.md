@@ -5,7 +5,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=184D9F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Kauan;I'm+18+years+old;I'm+from+Brazil;;Be+Welcome+:%29)](https://git.io/typing-svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&langs_count=8&layout=compact/theme=github_dark)
 
 
 
