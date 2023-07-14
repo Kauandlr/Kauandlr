@@ -8,9 +8,9 @@
 <div align="center"> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauandlr&bg_color=0d1117&color=184d9f&line=14376c&point=2d78f0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauandlr&langs_count=8)
 
 <div align="center">
 <br><p align="center"><b>Visit Count</b></p>  
