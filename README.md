@@ -14,7 +14,7 @@
 
 <div align="center">
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauandlr&bg_color=0d1117&color=aec3e5&line=1f6feb&point=50678b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauandlr&bg_color=0d1117&color=aec3e5&line=1f6feb&point=50678b&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div align="center">
